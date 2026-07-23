@@ -1,5 +1,7 @@
 # Gigatoken
 
+[English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md)
+
 <div align="center">
 
 ~1000x faster than HuggingFace's tokenizers, drop-in replacement.
